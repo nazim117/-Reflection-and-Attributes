@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.exe
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.deps.json
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.runtimeconfig.json
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.dll
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.pdb
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.AssemblyInfo.cs
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.dll
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\obj\Debug\net6.0\refint\MissionPrivateImpossible.dll
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.pdb
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.genruntimeconfig.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\MissionPrivateImpossible\obj\Debug\net6.0\ref\MissionPrivateImpossible.dll

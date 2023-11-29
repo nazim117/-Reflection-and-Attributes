@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\bin\Debug\net6.0\HIgh-QualityMistakes.exe
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\bin\Debug\net6.0\HIgh-QualityMistakes.deps.json
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\bin\Debug\net6.0\HIgh-QualityMistakes.runtimeconfig.json
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\bin\Debug\net6.0\HIgh-QualityMistakes.dll
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\bin\Debug\net6.0\HIgh-QualityMistakes.pdb
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\obj\Debug\net6.0\HIgh-QualityMistakes.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\obj\Debug\net6.0\HIgh-QualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\obj\Debug\net6.0\HIgh-QualityMistakes.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\obj\Debug\net6.0\HIgh-QualityMistakes.AssemblyInfo.cs
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\obj\Debug\net6.0\HIgh-QualityMistakes.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\obj\Debug\net6.0\HIgh-QualityMistakes.dll
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\obj\Debug\net6.0\refint\HIgh-QualityMistakes.dll
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\obj\Debug\net6.0\HIgh-QualityMistakes.pdb
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\obj\Debug\net6.0\HIgh-QualityMistakes.genruntimeconfig.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\HIgh-QualityMistakes\obj\Debug\net6.0\ref\HIgh-QualityMistakes.dll
