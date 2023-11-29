@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\bin\Debug\net6.0\Attributes.exe
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\bin\Debug\net6.0\Attributes.deps.json
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\bin\Debug\net6.0\Attributes.runtimeconfig.json
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\bin\Debug\net6.0\Attributes.dll
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\bin\Debug\net6.0\Attributes.pdb
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\obj\Debug\net6.0\Attributes.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\obj\Debug\net6.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\obj\Debug\net6.0\Attributes.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\obj\Debug\net6.0\Attributes.AssemblyInfo.cs
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\obj\Debug\net6.0\Attributes.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\obj\Debug\net6.0\Attributes.dll
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\obj\Debug\net6.0\refint\Attributes.dll
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\obj\Debug\net6.0\Attributes.pdb
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\obj\Debug\net6.0\Attributes.genruntimeconfig.cache
+C:\SoftUni-OOP\Refl-Attributes-Stealer\Attributes\obj\Debug\net6.0\ref\Attributes.dll
